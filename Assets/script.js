@@ -34,8 +34,5 @@ function getWeatherData(cityName) {
         cards[i].previousElementSibling.textContent = date.toLocaleDateString();
       }
     })
-    .catch((error) => {
-      console.error('Error fetching weather data:', error);
-      alert('City not found. Please enter a valid city name.');
-    });
+    
 }
