@@ -1,0 +1,125 @@
+
+
+.title-background {
+    background-image: linear-gradient(to right, rgb(99, 8, 8) , rgb(42, 3, 3));
+    background-color: rgb(99, 8, 8);
+    color: rgb(255, 255, 255);
+    height: 6rem;
+    margin-bottom: 0px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 28px;
+    font-size: 45px;
+}
+
+.search-background {
+    height: 690px;
+    background-color: rgb(220, 220, 220);
+    padding-top: 1rem;
+    padding-right: 2rem;
+    margin-right: -1rem;
+    max-width: 25%;
+    float: left;
+}
+
+h2 {
+    padding-left: 10px;
+    font-size: 30px;
+    line-height: 9px;
+}
+
+.search-bar {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 19px;
+    margin-left: 8px;
+    width: 400px;
+}
+
+.search-button {
+    height: 40px;
+    width: 422px;
+    margin-top: 15px;
+    margin-left: 8px;
+    background-color: rgb(99, 29, 29);
+    font-size: 16px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+hr.solid {
+    border-top: 3px solid #8f8e8e;
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 416px;
+  }
+
+  .main-info-background {
+    border: solid black ;
+    height: 230px;
+    width: 1160px;
+    margin-top: 15px;
+    margin-right: 10px;
+    float: right;
+  }
+
+  h3 {
+    font-size: 40px;
+    padding-left: 20px;
+    line-height: 15px;
+  }
+
+  .main-info-text {
+    font-size: 20px;
+    padding-left: 20px;
+  }
+
+  .days-forcast {
+    width: 1160px;
+    font-size: 30px;
+    float: right;
+    line-height: 0px;
+    padding-left: 20;
+  }
+
+  .cards {
+    width: 1200px;
+    float: right;
+    display: flex;
+    flex-flow: row wrap;
+  }
+
+  .card1, .card2, .card3, .card4, .card5 {
+    border: solid black;
+    height: 250px;
+    width: 215px;
+    margin-left: 17px;
+    background-image: linear-gradient(rgb(99, 8, 8) , rgb(42, 3, 3));
+    background-color: rgb(99, 8, 8);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    line-height: 0px;
+  }
+
+  h5 {
+    padding-bottom: 30px;
+  }
+
+  .card-text {
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 20px;
+    line-height: 1px;
+  }
+
+  
+
+
+
+ 
